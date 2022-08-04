@@ -30,7 +30,7 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-steps I used to solve the problem are:
+Code I used to solve the problem are:
 - Write the text
 ```md
 String text = "GOOD JOB Mawaddah";
