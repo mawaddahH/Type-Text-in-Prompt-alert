@@ -6,6 +6,7 @@ Discussion  W9D5 - SDA - Software QA Bootcamp
 * [Question](#question)
 * [Answer](#answer)
 * [Output Screenshots](#output-screenshots)
+* [References](#references)
 
 ---
 ## Question
@@ -15,7 +16,7 @@ Display the text you wrote by Java code in the prompt alert.
 </p>
 
 ## Answer
-I used a ["the-internet"](https://www.facebook.com/r.php?locale=en_US)
+I used a ["the-internet"](https://www.facebook.com/r.php?locale=en_US) website
 
 ### First:
 Setup Latest Web Driver for Chrome  Driver.
@@ -81,3 +82,14 @@ driver.switchTo().alert().accept();
 
 https://user-images.githubusercontent.com/48597284/182940293-2b480225-4d78-47f6-9d80-6e28cbd34107.mp4
 </p>
+
+---
+## References
+- ["How to Add a <script> into Head Using Selenium's JavascriptExecutor"](https://stackoverflow.com/questions/55124506/how-to-add-a-script-into-head-using-seleniums-javascriptexecutor)
+- ["How to use JavaScript Executor in Selenium"](https://www.numpyninja.com/post/how-to-use-javascript-executor-in-selenium)
+- ["AddElementToPage.java"](https://gist.github.com/sauceaaron/5a590d17b2292ba94390be3f5a620410)
+- ["JavaScript Execution with Selenium"](https://www.packt.com/javascript-execution-selenium/)
+- ["What are the most common Java Script functions used in Selenium WebDriver?"](https://stackoverflow.com/questions/62091618/what-are-the-most-common-java-script-functions-used-in-selenium-webdriver)
+- ["JavaScriptexecutor setAttribute value on selenium"](https://stackoverflow.com/questions/42439570/javascriptexecutor-setattribute-value-on-selenium)
+- ["How to use JavascriptExecutor in Selenium"](https://www.browserstack.com/guide/javascriptexecutor-in-selenium#:~:text=Conclusion-,What%20is%20JavascriptExecutor%20in%20Selenium%3F,HTML%20elements%20within%20the%20browser.)
+- ["How to select an element that has no attributes"](https://stackoverflow.com/questions/50011892/how-to-select-an-element-that-has-no-attributes)
