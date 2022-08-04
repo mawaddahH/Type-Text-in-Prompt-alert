@@ -10,7 +10,7 @@ Discussion  W9D5 - SDA - Software QA Bootcamp
 
 ---
 ## Question
-Display the text you wrote by Java code in the prompt alert.
+Display the text you wrote by Java code in a Prompt Alert.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48597284/182937055-7f44e22c-2c0a-42a2-b99e-71201ff8bcfd.png" width=80% height=80%>
 </p>
