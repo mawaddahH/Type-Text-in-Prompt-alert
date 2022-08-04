@@ -16,7 +16,7 @@ Display the text you wrote by Java code in a Prompt Alert.
 </p>
 
 ## Answer
-I used a ["the-internet"](https://www.facebook.com/r.php?locale=en_US) website
+I used a ["the-internet"](https://the-internet.herokuapp.com/javascript_alerts) website
 
 ### First:
 Setup Latest Web Driver for Chrome  Driver.
